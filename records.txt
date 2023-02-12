@@ -1,0 +1,11 @@
+
+_________USA Airlines__________
+   _________Ticket___________
+     _____________________
+
+Customer ID: 0
+Customer Name: 
+Customer Gender: 
+
+Destination:		
+Flight cost: 		0
